@@ -1,0 +1,30 @@
+c:\users\mschmitz\documents\visual studio 2013\Projects\problem3\problem3\bin\Debug\problem3.exe.config
+c:\users\mschmitz\documents\visual studio 2013\Projects\problem3\problem3\obj\Debug\problem3.csprojResolveAssemblyReference.cache
+c:\users\mschmitz\documents\visual studio 2013\Projects\problem3\problem3\obj\Debug\problem3.Form1.resources
+c:\users\mschmitz\documents\visual studio 2013\Projects\problem3\problem3\obj\Debug\problem3.Properties.Resources.resources
+c:\users\mschmitz\documents\visual studio 2013\Projects\problem3\problem3\obj\Debug\problem3.csproj.GenerateResource.Cache
+c:\users\mschmitz\documents\visual studio 2013\Projects\problem3\problem3\bin\Debug\problem3.exe
+c:\users\mschmitz\documents\visual studio 2013\Projects\problem3\problem3\bin\Debug\problem3.pdb
+c:\users\mschmitz\documents\visual studio 2013\Projects\problem3\problem3\obj\Debug\problem3.exe
+c:\users\mschmitz\documents\visual studio 2013\Projects\problem3\problem3\obj\Debug\problem3.pdb
+c:\users\mschmitz\documents\visual studio 2013\Projects\problem3\problem3\bin\Debug\NCalc.dll
+C:\Users\mschmitz\Desktop\problem3\bin\Debug\problem3.exe.config
+C:\Users\mschmitz\Desktop\problem3\obj\Debug\problem3.exe
+C:\Users\mschmitz\Desktop\problem3\obj\Debug\problem3.pdb
+C:\Users\mschmitz\Desktop\problem3\bin\Debug\problem3.exe
+C:\Users\mschmitz\Desktop\problem3\bin\Debug\problem3.pdb
+C:\Users\mschmitz\Desktop\problem3\bin\Debug\NCalc.dll
+C:\Users\mschmitz\Desktop\problem3\obj\Debug\problem3.csprojResolveAssemblyReference.cache
+C:\Users\mschmitz\Desktop\problem3\obj\Debug\problem3.Form1.resources
+C:\Users\mschmitz\Desktop\problem3\obj\Debug\problem3.Properties.Resources.resources
+C:\Users\mschmitz\Desktop\problem3\obj\Debug\problem3.csproj.GenerateResource.Cache
+C:\Users\mschm\Desktop\problem3\bin\Debug\problem3.exe.config
+C:\Users\mschm\Desktop\problem3\obj\Debug\problem3.exe
+C:\Users\mschm\Desktop\problem3\obj\Debug\problem3.pdb
+C:\Users\mschm\Desktop\problem3\bin\Debug\problem3.exe
+C:\Users\mschm\Desktop\problem3\bin\Debug\problem3.pdb
+C:\Users\mschm\Desktop\problem3\bin\Debug\NCalc.dll
+C:\Users\mschm\Desktop\problem3\obj\Debug\problem3.csprojResolveAssemblyReference.cache
+C:\Users\mschm\Desktop\problem3\obj\Debug\problem3.Form1.resources
+C:\Users\mschm\Desktop\problem3\obj\Debug\problem3.Properties.Resources.resources
+C:\Users\mschm\Desktop\problem3\obj\Debug\problem3.csproj.GenerateResource.Cache
